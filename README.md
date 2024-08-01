@@ -27,7 +27,7 @@ I want to be an interesting person and create something that can be remembered b
 - 🌱 I’m currently learning Vue & Flutter & React, and want to learn everything interesting.
 - 🤔 I want to make a Vue-backstage management system recently.
 - ❤️ I like eating 🍉, raising 🐓, reading 📖, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
-- 📝   Checkout my [Blog](https://arknight.zzychaser.top/)
+- 📝   Checkout my [Blog](http://www.rainfly.cn/)
 - 💬 Be free to ask me about anything [here](https://github.com/rain-fly/rain-fly/issues).
 
 
